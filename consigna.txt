@@ -1,0 +1,21 @@
+Objetivos específicos:
+
+Capturar entradas mediante prompt().
+Declarar variables y objetos necesarios para simular el proceso seleccionado.
+Crear funciones y/o métodos para realizar operaciones (suma, resta, concatenación, división, porcentaje, etc).
+Efectuar una salida, que es el resultado de los datos procesados, la cual puede hacerse por alert() o console.log().
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Se tiene que entregar:
+
+--------------------------Hecho---------------------------------Estructura HTML del proyecto. 
+--------------------------Hecho-------------------------------Variables de JS necesarias. 
+--------------------------Hecho-------------------------------Funciones esenciales del proceso a simular.
+--------------------------Hecho--------------------------------Objetos de JS.  (Datos de cada alumno)
+--------------------------Hecho-------------------------------.Arrays. (Nombres)
+Métodos de búsqueda y filtrado sobre el Array.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Lo que voy a hacer:
+
+Registro de alumnos: crear un sistema de registro de alumnos donde pueda capturar el nombre y la calificación de cada estudiante mediante prompt(). Usar objetos para almacenar los datos de cada alumno, funciones para realizar cálculos como promedio de calificaciones, y mostrar los resultados mediante console.log().
